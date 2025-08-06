@@ -1,0 +1,288 @@
+    1  git remote add origin https://github.com/BurcaKilic/HW_10.git
+    2  git remote add origin https://github.com/BurcaKilic/HW_10
+    3  git config --global user.name BurcaKilic
+    4  git config --global user.email burca.kilic@gmail.com
+    5  pwd
+    6  git add .
+    7  git init
+    8  cd HW_10
+    9  git remote add origin https://github.com/BurcaKilic/HW_10.git
+   10  git add .
+   11  git push text_ignore.txt
+   12  git init
+   13  git add .
+   14  git commit -m "text_ignore.txt"
+   15  git add .
+   16  git push -u origin main
+   17  git push origin -u origin master
+   18  git push -u origin text_ignore.txt
+   19  git push -u origin main_test.txt
+   20  git add .
+   21  git init
+   22  git push -u origin deneme.txt
+   23  git branch
+   24  cd odev
+   25  pwd
+   26  cd odev
+   27  pwd
+   28  git add .
+   29  git commit -m "text_ignore.txt"
+   30  git add .
+   31  git commit -m "text_ignore"
+   32  git push
+   33  git remote add origin https://github.com/BurcaKilic/HW_10.git
+   34  git push -u origin main
+   35  git push -u origin master
+   36  touch text_ignore.txt
+   37  git add .
+   38  touch .gitignore
+   39  echo "text_ignore.txt" >> .gitignore
+   40  git add .
+   41  git commit
+   42  cd
+   43  cd desktop
+   44  cd odev
+   45  pwd
+   46  git clone <repo-url>
+   47  git clone https://github.com/BurcaKilic/HW_10.git
+   48  git status
+   49  git add .
+   50  git commit -m "Add .gitignore to ignore text_ignore.txt"
+   51  git commit -m "text_ignore.txt"
+   52  git add .
+   53  git push
+   54  git commit
+   55  touch main_test.txt
+   56  git add .
+   57  git commit -m "gorev2"
+   58  clear
+   59  git branch develop
+   60  git checkout develop
+   61  touch develop_test.txt
+   62  git add .
+   63  git commit -m "gorev3"
+   64  git status
+   65  git add .
+   66  git commit -m "gorev3v1"
+   67  git push
+   68  git branch
+   69  gt checkout master
+   70  git checkout master
+   71  git merge
+   72  git merge master
+   73  git merge develop
+   74  git add .
+   75  git loh
+   76  git log
+   77  git bash
+   78  git bash history > command_list.csv
+   79  git add .
+   80  git commit -m "odev"
+   81  git push
+   82  cd desktop
+   83  ls
+   84  pwd
+   85  dir
+   86  cd Api
+   87  pwd
+   88  cd ..
+   89  pwd
+   90  clear
+   91  pwd
+   92  cd desktop
+   93  pwd
+   94  dir
+   95  clear
+   96  touch Goit.txt
+   97  rm SQL
+   98  pwd
+   99  rm Dersler
+  100  mkdir SQL
+  101  cd SQL
+  102  pwd
+  103  touch Goit.txt
+  104  cd ..
+  105  pwd
+  106  ls
+  107  cd SQL
+  108  pwd
+  109  rm goit.txt
+  110  rmdir SQL
+  111  pwd
+  112  date
+  113  clear
+  114  rmdir SQL
+  115  cd ..
+  116  rmdir SQL
+  117  systeminfo
+  118   ipconfig
+  119   dxdiag
+  120  pwd
+  121  lear
+  122  clear
+  123  cd ..
+  124  pwd
+  125  mkdir SQL
+  126  pwd
+  127  rmdir SQL
+  128  cd desktop
+  129  pwd
+  130  mkdir SQL
+  131  mkdir Odev
+  132  cd SQL
+  133  pwd
+  134  clear
+  135  pwd
+  136  cd ..
+  137  cd SQL
+  138  pwd
+  139  mkdir Dersler
+  140  cd Dersler
+  141  touch Dersler.txt
+  142  cd desktop
+  143  cd ..
+  144  cd ..
+  145  pwd
+  146  git config --global user.name BurcaKilic
+  147  git config --global use.email burca.kilic@gmail.com
+  148  git config --global user.email burca.kilic@gmail.com
+  149  pwd
+  150  cd SQL
+  151  pwd
+  152  cd dersler
+  153  git init
+  154  cd ..
+  155  rm .git
+  156  ls
+  157  cd dersler
+  158  pwd
+  159  rm .git
+  160  rmdir .git
+  161  cd ..
+  162  rmdir dersler
+  163  rm dersler
+  164  rm Dersler
+  165  rmdir Dersler
+  166  pwd
+  167  git add
+  168  GİT İNİT
+  169  git init
+  170  git add .
+  171  git commit -m "ilk versiyon"
+  172  git push
+  173  ca@Burca MINGW64 ~/desktop/SQL (master)
+  174  $ git remote add origin
+  175  git remote add origin https://github.com/BurcaKilic/Goit.git
+  176  git push -u origin main
+  177  pwd
+  178  git push -u origin main
+  179  git push -u origin master
+  180   git branch
+  181  git branch burca
+  182  git bracnh
+  183  git branch
+  184  git branch Emma
+  185  git branch
+  186   git checkout burca
+  187  git branch
+  188  git checkout master
+  189  git bracnh
+  190  git branch
+  191  cd dersler
+  192  pwd
+  193  git checkout burca
+  194  pwd
+  195  git checkout master
+  196  git add .
+  197  git commit -m "master ilk commit"
+  198  git checkout burc
+  199  git checkout burca
+  200  git add .
+  201  git commit -m "v1"
+  202  git checkout master
+  203  git checkout burca
+  204  git checkout master
+  205  git merge burca
+  206  git add .
+  207  git commit -m "v2"
+  208  git push
+  209  git checkout burca
+  210  git merge master
+  211  git add .
+  212  git commit -m "son hali"
+  213  clear
+  214  git bracnh
+  215  git branch
+  216  git chekcout master
+  217  git checkout master
+  218  clear
+  219  git checkout burca
+  220  git push
+  221  git push --set-upstream origin burca
+  222  git add .
+  223  git commit -m "son versiyon"
+  224  git push
+  225  git merge master
+  226  git checkout master
+  227  git checkout burca
+  228  git add .
+  229  git commit -m "son versiyon"
+  230  git push
+  231  git checkout master
+  232  git add .
+  233  git commit -m "vson"
+  234  git add .
+  235  g
+  236  t cpöö
+  237  git commit -m "son"
+  238  git checkout burca
+  239  git merge master
+  240  git add .
+  241  git commit -m "son degisiklik"
+  242  sit push
+  243  git push
+  244  git add .
+  245  git commit -m "son version"
+  246  git push
+  247  git add .
+  248  git commit -m "vw"
+  249  git push
+  250  clear
+  251  pwd
+  252  cd desktop
+  253  ls
+  254  cd ..
+  255  pwd
+  256  ls
+  257  cd Odev
+  258  pwd
+  259  git clone https://github.com/BurcaKilic/HW_10.git
+  260  ls
+  261  cd HW_10
+  262  touch text_ignore.txt
+  263  git status
+  264  ls
+  265  git add .
+  266  git commit -m "Gorev1"
+  267  touch main_test.txt
+  268  git add .
+  269  git commit -m "Gorev2"
+  270  git branch develop
+  271  git checkout develop
+  272  pwd
+  273  git bracnh
+  274  git branch
+  275  touch develop_test.txt
+  276  git add .
+  277  git commit -m "Gorev3"
+  278  git status
+  279  git add .
+  280  git commit -m "Gorev3"
+  281  git checkout main
+  282  pw
+  283  pwd
+  284  git branh
+  285  git branch
+  286  git merge develop
+  287  git log --oneline
+  288  history > command_list.csv
